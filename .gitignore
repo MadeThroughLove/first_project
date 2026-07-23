@@ -22,7 +22,6 @@ __pycache__/
 Thumbs.db  # Windows
 .DS_Store  # macOS
 
-
-
+.env
 
 tmp_data.txt
