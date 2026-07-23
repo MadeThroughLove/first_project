@@ -1,2 +1,1 @@
-# First Project
-Тестовый репозиторий для работы с GitHub.
+# second-project
